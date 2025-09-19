@@ -1,0 +1,22 @@
+{
+  "name": "C on Codespaces",
+  "image": "mcr.microsoft.com/devcontainers/cpp:ubuntu-22.04",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools",
+        "ms-vscode.cpptools-extension-pack"
+      ],
+      "settings": {
+        "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+        "editor.formatOnSave": true
+      }
+    }
+  },
+  "features": {
+    // 需要额外工具可在这里声明，也可不写，镜像已带常用 C 工具
+  },
+  "postCreateCommand": "sudo apt-get update && sudo apt-get -y install valgrind",
+  "remoteUser": "vscode"
+}
