@@ -1,0 +1,5 @@
+/workspaces/mena001/build/debug/CMakeFiles/hello.dir
+/workspaces/mena001/build/debug/CMakeFiles/new.dir
+/workspaces/mena001/build/debug/CMakeFiles/foo.dir
+/workspaces/mena001/build/debug/CMakeFiles/edit_cache.dir
+/workspaces/mena001/build/debug/CMakeFiles/rebuild_cache.dir

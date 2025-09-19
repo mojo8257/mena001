@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/workspaces/mena001/build/debug",
+  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/hello.dir/apps/hello.c.o -c /workspaces/mena001/apps/hello.c",
+  "file": "/workspaces/mena001/apps/hello.c"
+},
+{
+  "directory": "/workspaces/mena001/build/debug",
+  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/new.dir/apps/new.c.o -c /workspaces/mena001/apps/new.c",
+  "file": "/workspaces/mena001/apps/new.c"
+},
+{
+  "directory": "/workspaces/mena001/build/debug",
+  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/foo.dir/programs/foo/main.c.o -c /workspaces/mena001/programs/foo/main.c",
+  "file": "/workspaces/mena001/programs/foo/main.c"
+}
+]
