@@ -1,10 +1,18 @@
 {
-  "name": "Java 17 Dev",
-  "image": "mcr.microsoft.com/devcontainers/java:1-17-bullseye",
+  "name": "Java 17 + Maven",
+  "image": "mcr.microsoft.com/devcontainers/base:bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "17",
+      "distribution": "tem",
+      "installMaven": "true"
+    }
+  },
   "customizations": {
     "vscode": {
       "extensions": [
-        "vscjava.vscode-java-pack"
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-maven"
       ]
     }
   },
