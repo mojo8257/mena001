@@ -1,6 +1,26 @@
 [
 {
   "directory": "/workspaces/mena001/build/debug",
+  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/9_25_1.dir/apps/9_25_1.c.o -c /workspaces/mena001/apps/9_25_1.c",
+  "file": "/workspaces/mena001/apps/9_25_1.c"
+},
+{
+  "directory": "/workspaces/mena001/build/debug",
+  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/9_25_2.dir/apps/9_25_2.c.o -c /workspaces/mena001/apps/9_25_2.c",
+  "file": "/workspaces/mena001/apps/9_25_2.c"
+},
+{
+  "directory": "/workspaces/mena001/build/debug",
+  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/9_25_3.dir/apps/9_25_3.c.o -c /workspaces/mena001/apps/9_25_3.c",
+  "file": "/workspaces/mena001/apps/9_25_3.c"
+},
+{
+  "directory": "/workspaces/mena001/build/debug",
+  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/9_25_4.dir/apps/9_25_4.c.o -c /workspaces/mena001/apps/9_25_4.c",
+  "file": "/workspaces/mena001/apps/9_25_4.c"
+},
+{
+  "directory": "/workspaces/mena001/build/debug",
   "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/hello.dir/apps/hello.c.o -c /workspaces/mena001/apps/hello.c",
   "file": "/workspaces/mena001/apps/hello.c"
 },

@@ -17,7 +17,11 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3,
+						4,
+						5,
+						6
 					]
 				}
 			],
@@ -34,12 +38,44 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3,
+						4,
+						5,
+						6
 					]
 				}
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 0,
+					"id" : "9_25_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9_25_1-Debug-6f9d7809d6cccaaa22c6.json",
+					"name" : "9_25_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9_25_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9_25_2-Debug-81bb5dba538fdc4f0d30.json",
+					"name" : "9_25_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9_25_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9_25_3-Debug-e8e9261d2d109d04cb85.json",
+					"name" : "9_25_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9_25_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9_25_4-Debug-41a133c60a97da38a32a.json",
+					"name" : "9_25_4",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 0,
 					"id" : "foo::@6890427a1f51a3e7e1df",
