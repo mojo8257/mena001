@@ -1,6 +1,8 @@
 {
-  "name": "C on Codespaces",
-  "image": "mcr.microsoft.com/devcontainers/cpp:ubuntu-22.04",
+  "name": "C on Codespaces (pinned)",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
   "customizations": {
     "vscode": {
       "extensions": [
@@ -14,9 +16,7 @@
       }
     }
   },
-  "features": {
-    // 需要额外工具可在这里声明，也可不写，镜像已带常用 C 工具
-  },
-  "postCreateCommand": "sudo apt-get update && sudo apt-get -y install valgrind",
-  "remoteUser": "vscode"
+  "remoteUser": "vscode",
+  // 仅做轻量校验，不再 apt 安装
+  "postCreateCommand": "valgrind --version || true"
 }
