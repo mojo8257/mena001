@@ -1,6 +1,8 @@
 {
   "name": "Java 17 + Maven",
-  "image": "mcr.microsoft.com/devcontainers/base:bookworm",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
   "features": {
     "ghcr.io/devcontainers/features/java:1": {
       "version": "17",
@@ -22,7 +24,7 @@
     }
   },
   "remoteUser": "vscode",
-  "postCreateCommand": "java -version && mvn -v"
+  "postCreateCommand": "git lfs install && java -version && mvn -v && git lfs version"
 }
 
 
