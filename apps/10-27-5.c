@@ -19,17 +19,17 @@ int main(void)
             continue;
         }
 
-        double denom = d + e; // 运算符优先级：先加法再用于除法
+        double denom = d + e;
         if (fabs(denom) < 1e-12)
-        { // 避免分母为 0
+        {
             printf("分母 d+e 不能为 0，请重新输入 a b c d e f：");
             continue;
         }
 
         // 按公式：S = (a + b*c)/(d + e) + f*f
-        double S = (a + b * c) / denom + f * f; // 乘法优先于加法，写法体现优先级
+        double S = (a + b * c) / denom + f * f;
 
-        printf("信号强度 S = %.3f\n", S); // 保留三位小数
+        printf("信号强度 S = %.3f\n", S);
         break;
     }
     return 0;
