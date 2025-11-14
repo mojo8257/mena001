@@ -1,33 +1,28 @@
 [
 {
   "directory": "/workspaces/mena001/build/debug",
-  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/9_25_1.dir/apps/9_25_1.c.o -c /workspaces/mena001/apps/9_25_1.c",
-  "file": "/workspaces/mena001/apps/9_25_1.c"
+  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/10-27-1.dir/apps/10-27-1.c.o -c /workspaces/mena001/apps/10-27-1.c",
+  "file": "/workspaces/mena001/apps/10-27-1.c"
 },
 {
   "directory": "/workspaces/mena001/build/debug",
-  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/9_25_2.dir/apps/9_25_2.c.o -c /workspaces/mena001/apps/9_25_2.c",
-  "file": "/workspaces/mena001/apps/9_25_2.c"
+  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/10-27-2.dir/apps/10-27-2.c.o -c /workspaces/mena001/apps/10-27-2.c",
+  "file": "/workspaces/mena001/apps/10-27-2.c"
 },
 {
   "directory": "/workspaces/mena001/build/debug",
-  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/9_25_3.dir/apps/9_25_3.c.o -c /workspaces/mena001/apps/9_25_3.c",
-  "file": "/workspaces/mena001/apps/9_25_3.c"
+  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/10-27-3.dir/apps/10-27-3.c.o -c /workspaces/mena001/apps/10-27-3.c",
+  "file": "/workspaces/mena001/apps/10-27-3.c"
 },
 {
   "directory": "/workspaces/mena001/build/debug",
-  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/9_25_4.dir/apps/9_25_4.c.o -c /workspaces/mena001/apps/9_25_4.c",
-  "file": "/workspaces/mena001/apps/9_25_4.c"
+  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/10-27-4.dir/apps/10-27-4.c.o -c /workspaces/mena001/apps/10-27-4.c",
+  "file": "/workspaces/mena001/apps/10-27-4.c"
 },
 {
   "directory": "/workspaces/mena001/build/debug",
-  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/hello.dir/apps/hello.c.o -c /workspaces/mena001/apps/hello.c",
-  "file": "/workspaces/mena001/apps/hello.c"
-},
-{
-  "directory": "/workspaces/mena001/build/debug",
-  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/new.dir/apps/new.c.o -c /workspaces/mena001/apps/new.c",
-  "file": "/workspaces/mena001/apps/new.c"
+  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/10-27-5.dir/apps/10-27-5.c.o -c /workspaces/mena001/apps/10-27-5.c",
+  "file": "/workspaces/mena001/apps/10-27-5.c"
 },
 {
   "directory": "/workspaces/mena001/build/debug",

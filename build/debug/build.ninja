@@ -41,190 +41,159 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /workspaces/mena001/build/debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target 9_25_1
+# Object build statements for EXECUTABLE target 10-27-1
 
 
 #############################################
-# Order-only phony target for 9_25_1
+# Order-only phony target for 10-27-1
 
-build cmake_object_order_depends_target_9_25_1: phony || CMakeFiles/9_25_1.dir
+build cmake_object_order_depends_target_10-27-1: phony || CMakeFiles/10-27-1.dir
 
-build CMakeFiles/9_25_1.dir/apps/9_25_1.c.o: C_COMPILER__9_25_1_Debug /workspaces/mena001/apps/9_25_1.c || cmake_object_order_depends_target_9_25_1
-  DEP_FILE = CMakeFiles/9_25_1.dir/apps/9_25_1.c.o.d
+build CMakeFiles/10-27-1.dir/apps/10-27-1.c.o: C_COMPILER__10-27-1_Debug /workspaces/mena001/apps/10-27-1.c || cmake_object_order_depends_target_10-27-1
+  DEP_FILE = CMakeFiles/10-27-1.dir/apps/10-27-1.c.o.d
   FLAGS = -g -std=gnu11
-  OBJECT_DIR = CMakeFiles/9_25_1.dir
-  OBJECT_FILE_DIR = CMakeFiles/9_25_1.dir/apps
+  OBJECT_DIR = CMakeFiles/10-27-1.dir
+  OBJECT_FILE_DIR = CMakeFiles/10-27-1.dir/apps
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 9_25_1
+# Link build statements for EXECUTABLE target 10-27-1
 
 
 #############################################
-# Link the executable 9_25_1
+# Link the executable 10-27-1
 
-build 9_25_1: C_EXECUTABLE_LINKER__9_25_1_Debug CMakeFiles/9_25_1.dir/apps/9_25_1.c.o
+build 10-27-1: C_EXECUTABLE_LINKER__10-27-1_Debug CMakeFiles/10-27-1.dir/apps/10-27-1.c.o
   FLAGS = -g
-  OBJECT_DIR = CMakeFiles/9_25_1.dir
+  OBJECT_DIR = CMakeFiles/10-27-1.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 9_25_1
-  TARGET_PDB = 9_25_1.dbg
+  TARGET_FILE = 10-27-1
+  TARGET_PDB = 10-27-1.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 9_25_2
+# Object build statements for EXECUTABLE target 10-27-2
 
 
 #############################################
-# Order-only phony target for 9_25_2
+# Order-only phony target for 10-27-2
 
-build cmake_object_order_depends_target_9_25_2: phony || CMakeFiles/9_25_2.dir
+build cmake_object_order_depends_target_10-27-2: phony || CMakeFiles/10-27-2.dir
 
-build CMakeFiles/9_25_2.dir/apps/9_25_2.c.o: C_COMPILER__9_25_2_Debug /workspaces/mena001/apps/9_25_2.c || cmake_object_order_depends_target_9_25_2
-  DEP_FILE = CMakeFiles/9_25_2.dir/apps/9_25_2.c.o.d
+build CMakeFiles/10-27-2.dir/apps/10-27-2.c.o: C_COMPILER__10-27-2_Debug /workspaces/mena001/apps/10-27-2.c || cmake_object_order_depends_target_10-27-2
+  DEP_FILE = CMakeFiles/10-27-2.dir/apps/10-27-2.c.o.d
   FLAGS = -g -std=gnu11
-  OBJECT_DIR = CMakeFiles/9_25_2.dir
-  OBJECT_FILE_DIR = CMakeFiles/9_25_2.dir/apps
+  OBJECT_DIR = CMakeFiles/10-27-2.dir
+  OBJECT_FILE_DIR = CMakeFiles/10-27-2.dir/apps
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 9_25_2
+# Link build statements for EXECUTABLE target 10-27-2
 
 
 #############################################
-# Link the executable 9_25_2
+# Link the executable 10-27-2
 
-build 9_25_2: C_EXECUTABLE_LINKER__9_25_2_Debug CMakeFiles/9_25_2.dir/apps/9_25_2.c.o
+build 10-27-2: C_EXECUTABLE_LINKER__10-27-2_Debug CMakeFiles/10-27-2.dir/apps/10-27-2.c.o
   FLAGS = -g
-  OBJECT_DIR = CMakeFiles/9_25_2.dir
+  OBJECT_DIR = CMakeFiles/10-27-2.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 9_25_2
-  TARGET_PDB = 9_25_2.dbg
+  TARGET_FILE = 10-27-2
+  TARGET_PDB = 10-27-2.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 9_25_3
+# Object build statements for EXECUTABLE target 10-27-3
 
 
 #############################################
-# Order-only phony target for 9_25_3
+# Order-only phony target for 10-27-3
 
-build cmake_object_order_depends_target_9_25_3: phony || CMakeFiles/9_25_3.dir
+build cmake_object_order_depends_target_10-27-3: phony || CMakeFiles/10-27-3.dir
 
-build CMakeFiles/9_25_3.dir/apps/9_25_3.c.o: C_COMPILER__9_25_3_Debug /workspaces/mena001/apps/9_25_3.c || cmake_object_order_depends_target_9_25_3
-  DEP_FILE = CMakeFiles/9_25_3.dir/apps/9_25_3.c.o.d
+build CMakeFiles/10-27-3.dir/apps/10-27-3.c.o: C_COMPILER__10-27-3_Debug /workspaces/mena001/apps/10-27-3.c || cmake_object_order_depends_target_10-27-3
+  DEP_FILE = CMakeFiles/10-27-3.dir/apps/10-27-3.c.o.d
   FLAGS = -g -std=gnu11
-  OBJECT_DIR = CMakeFiles/9_25_3.dir
-  OBJECT_FILE_DIR = CMakeFiles/9_25_3.dir/apps
+  OBJECT_DIR = CMakeFiles/10-27-3.dir
+  OBJECT_FILE_DIR = CMakeFiles/10-27-3.dir/apps
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 9_25_3
+# Link build statements for EXECUTABLE target 10-27-3
 
 
 #############################################
-# Link the executable 9_25_3
+# Link the executable 10-27-3
 
-build 9_25_3: C_EXECUTABLE_LINKER__9_25_3_Debug CMakeFiles/9_25_3.dir/apps/9_25_3.c.o
+build 10-27-3: C_EXECUTABLE_LINKER__10-27-3_Debug CMakeFiles/10-27-3.dir/apps/10-27-3.c.o
   FLAGS = -g
-  OBJECT_DIR = CMakeFiles/9_25_3.dir
+  OBJECT_DIR = CMakeFiles/10-27-3.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 9_25_3
-  TARGET_PDB = 9_25_3.dbg
+  TARGET_FILE = 10-27-3
+  TARGET_PDB = 10-27-3.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 9_25_4
+# Object build statements for EXECUTABLE target 10-27-4
 
 
 #############################################
-# Order-only phony target for 9_25_4
+# Order-only phony target for 10-27-4
 
-build cmake_object_order_depends_target_9_25_4: phony || CMakeFiles/9_25_4.dir
+build cmake_object_order_depends_target_10-27-4: phony || CMakeFiles/10-27-4.dir
 
-build CMakeFiles/9_25_4.dir/apps/9_25_4.c.o: C_COMPILER__9_25_4_Debug /workspaces/mena001/apps/9_25_4.c || cmake_object_order_depends_target_9_25_4
-  DEP_FILE = CMakeFiles/9_25_4.dir/apps/9_25_4.c.o.d
+build CMakeFiles/10-27-4.dir/apps/10-27-4.c.o: C_COMPILER__10-27-4_Debug /workspaces/mena001/apps/10-27-4.c || cmake_object_order_depends_target_10-27-4
+  DEP_FILE = CMakeFiles/10-27-4.dir/apps/10-27-4.c.o.d
   FLAGS = -g -std=gnu11
-  OBJECT_DIR = CMakeFiles/9_25_4.dir
-  OBJECT_FILE_DIR = CMakeFiles/9_25_4.dir/apps
+  OBJECT_DIR = CMakeFiles/10-27-4.dir
+  OBJECT_FILE_DIR = CMakeFiles/10-27-4.dir/apps
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 9_25_4
+# Link build statements for EXECUTABLE target 10-27-4
 
 
 #############################################
-# Link the executable 9_25_4
+# Link the executable 10-27-4
 
-build 9_25_4: C_EXECUTABLE_LINKER__9_25_4_Debug CMakeFiles/9_25_4.dir/apps/9_25_4.c.o
+build 10-27-4: C_EXECUTABLE_LINKER__10-27-4_Debug CMakeFiles/10-27-4.dir/apps/10-27-4.c.o
   FLAGS = -g
-  OBJECT_DIR = CMakeFiles/9_25_4.dir
+  OBJECT_DIR = CMakeFiles/10-27-4.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 9_25_4
-  TARGET_PDB = 9_25_4.dbg
+  TARGET_FILE = 10-27-4
+  TARGET_PDB = 10-27-4.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target hello
+# Object build statements for EXECUTABLE target 10-27-5
 
 
 #############################################
-# Order-only phony target for hello
+# Order-only phony target for 10-27-5
 
-build cmake_object_order_depends_target_hello: phony || CMakeFiles/hello.dir
+build cmake_object_order_depends_target_10-27-5: phony || CMakeFiles/10-27-5.dir
 
-build CMakeFiles/hello.dir/apps/hello.c.o: C_COMPILER__hello_Debug /workspaces/mena001/apps/hello.c || cmake_object_order_depends_target_hello
-  DEP_FILE = CMakeFiles/hello.dir/apps/hello.c.o.d
+build CMakeFiles/10-27-5.dir/apps/10-27-5.c.o: C_COMPILER__10-27-5_Debug /workspaces/mena001/apps/10-27-5.c || cmake_object_order_depends_target_10-27-5
+  DEP_FILE = CMakeFiles/10-27-5.dir/apps/10-27-5.c.o.d
   FLAGS = -g -std=gnu11
-  OBJECT_DIR = CMakeFiles/hello.dir
-  OBJECT_FILE_DIR = CMakeFiles/hello.dir/apps
+  OBJECT_DIR = CMakeFiles/10-27-5.dir
+  OBJECT_FILE_DIR = CMakeFiles/10-27-5.dir/apps
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target hello
+# Link build statements for EXECUTABLE target 10-27-5
 
 
 #############################################
-# Link the executable hello
+# Link the executable 10-27-5
 
-build hello: C_EXECUTABLE_LINKER__hello_Debug CMakeFiles/hello.dir/apps/hello.c.o
+build 10-27-5: C_EXECUTABLE_LINKER__10-27-5_Debug CMakeFiles/10-27-5.dir/apps/10-27-5.c.o
   FLAGS = -g
-  OBJECT_DIR = CMakeFiles/hello.dir
+  OBJECT_DIR = CMakeFiles/10-27-5.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = hello
-  TARGET_PDB = hello.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target new
-
-
-#############################################
-# Order-only phony target for new
-
-build cmake_object_order_depends_target_new: phony || CMakeFiles/new.dir
-
-build CMakeFiles/new.dir/apps/new.c.o: C_COMPILER__new_Debug /workspaces/mena001/apps/new.c || cmake_object_order_depends_target_new
-  DEP_FILE = CMakeFiles/new.dir/apps/new.c.o.d
-  FLAGS = -g -std=gnu11
-  OBJECT_DIR = CMakeFiles/new.dir
-  OBJECT_FILE_DIR = CMakeFiles/new.dir/apps
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target new
-
-
-#############################################
-# Link the executable new
-
-build new: C_EXECUTABLE_LINKER__new_Debug CMakeFiles/new.dir/apps/new.c.o
-  FLAGS = -g
-  OBJECT_DIR = CMakeFiles/new.dir
-  POST_BUILD = :
-  PRE_LINK = :
-  TARGET_FILE = new
-  TARGET_PDB = new.dbg
+  TARGET_FILE = 10-27-5
+  TARGET_PDB = 10-27-5.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target foo
@@ -291,7 +260,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /workspaces/mena001/build/debug
 
-build all: phony 9_25_1 9_25_2 9_25_3 9_25_4 hello new foo
+build all: phony 10-27-1 10-27-2 10-27-3 10-27-4 10-27-5 foo
 
 # =============================================================================
 # Built-in targets
